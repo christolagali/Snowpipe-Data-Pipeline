@@ -128,9 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/config_files
-*.py
-__pycache__/
+config_files/
 
 launch.json
 
